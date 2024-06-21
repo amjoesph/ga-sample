@@ -1,0 +1,2 @@
+# ga-sample
+github actions
